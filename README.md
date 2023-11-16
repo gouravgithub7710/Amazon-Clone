@@ -1,6 +1,7 @@
 # Amazon-Clone
 This project is an attempt to recreate the core features and design of the popular e-commerce platform, Amazon. Built with HTML and CSS, this Amazon clone serves as a learning exercise and a demonstration of front-end web development skills.
 
+##Output of this Amazon clone:--
 ![screencapture-127-0-0-1-5500-index-html-2023-11-16-18_55_54](https://github.com/gouravgithub7710/Amazon-Clone/assets/144522131/d25069e1-184e-4472-b11d-210437126562)
 
 ## Description
